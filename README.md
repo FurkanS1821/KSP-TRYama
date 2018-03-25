@@ -7,4 +7,4 @@ Hatalı bulduğunuz ve/veya "şöyle olsa daha iyi olurdu" dediğiniz yerleri "i
 
 ## Nasıl Yüklerim?
 
-`dictionary.cfg` dosyasını indirip `.../Kerbal Space Program/GameData/Squad/Localization/` klasörüne atın. Yedek almayı unutmayın!
+`Squad` klasörünü indirip `.../Kerbal Space Program/GameData/` klasörüne atın. Birleştirme hakkında bir soru gelirse "Evet" diyerek cevaplayın.
