@@ -7,4 +7,6 @@ Hatalı bulduğunuz ve/veya "şöyle olsa daha iyi olurdu" dediğiniz yerleri "i
 
 ## Nasıl Yüklerim?
 
-`Squad` klasörünü indirip `.../Kerbal Space Program/GameData/` klasörüne atın. Birleştirme hakkında bir soru gelirse "Evet" diyerek cevaplayın.
+`Kerbal Space Program` klasörünün içindekileri oyunun olduğu atın. Birleştirme ve üstüne yazma hakkında sorular gelirse "Evet" diyerek cevaplayın.
+
+Sonrasında, `buildID.txt` (veya 64 bit kullanıyorsanız `buildID64.txt`) dosyasını açıp `masterlanguage = en-us` yazan yeri `masterlanguage = tr-tr` olarak değiştirin.
