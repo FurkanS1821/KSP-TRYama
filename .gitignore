@@ -1,4 +1,2 @@
-*.bat
-*.exe
 *.txt
-!readme.txt
+*.exe
