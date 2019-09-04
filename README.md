@@ -15,17 +15,22 @@ Dosyaları [buradan](https://github.com/FurkanS1821/KSP-TRYama/releases/latest) 
 
 ## Sıkça Sorulmayan ama Cevaplamak İstediğim Sorular
 
-### Neden Anadolu Ajansı gibi 2 ayda %85'i yayınlayıp yarım senede %15'i yayınlayamadın?
-
-Üniversite sınavına hazırlanıyorum, yani Haziran'a, belki de daha sonrasına kadar KSP güncellendikçe güncelliyorum.
-
 ### KSPedia'yı çevirecek misin?
 
-Çok isterdim ama dosyalar ne yazık ki normal metin dosyaları değil, derlenmiş Unity dosyaları. Bu dosyaları açıp değişim yapıp kaydetmeme olanak tanıyan bir program henüz yok. Bir ara böyle bir programı kendim yapmayı denedim ancak sonra vazgeçtim. Şu anda da önceliğim bu proje olmadığı için bir şeyler söylemem zor.
+Deneyeceğim.
 
-### Making History ve Breaking Ground DLC'lerini çevirecek misin?
+### Sana çevirebilmen için DLC alabilir miyim?
 
-Çevirebilmem için dosyalarına erişimim olması, yani kısacası DLC'lere sahip olmam lazım. İndirime girmesini ve paramın olmasını bekliyorum.
+[Çok makbule geçer :)](https://github.com/FurkanS1821/KSP-TRYama/blob/master/README.md#bağiş)
 
-Ama aceleniz varsa bana Steam'den hediye edebilirsiniz ;)
-(Veya sizde varsa çeviri dosyasını bana gönderebilirsiniz, ancak oyuna girip test edemeyeceğim için çeviride gariplikler olabilir)
+## BAĞIŞ
+
+Breaking Ground'u satın alabilmem için, veya yaptıklarımı beğendiyseniz bana destek olmak için atabilirsiniz :)
+
+Parayı çarçur etmeyip DLC aldığımdan emin olmak için [Steam'den hediye olarak atabilirsiniz](https://steamcommunity.com/id/furkan_s)
+
+Ya da hayatıma yardımcı olabilirsiniz:
+
+- QNB Finansbank Hesabım: TR87 0011 1000 0000 0086 9859 23
+
+- Papara Hesap Numaram: 1984172718
