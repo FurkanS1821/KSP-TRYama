@@ -17,19 +17,13 @@ Dosyaları [buradan](https://github.com/FurkanS1821/KSP-TRYama/releases/latest) 
 
 ### KSPedia'yı çevirecek misin?
 
-Deneyeceğim.
-
-### Sana çevirebilmen için DLC alabilir miyim?
-
-[Çok makbule geçer :)](https://github.com/FurkanS1821/KSP-TRYama/blob/master/README.md#bağiş)
+Bunu yapmam mümkün değil ama çevirilmiş bir KSPedia pdf dosyasını buraya koyacağım.
 
 ## BAĞIŞ
 
-Breaking Ground'u satın alabilmem için, veya yaptıklarımı beğendiyseniz bana destek olmak için atabilirsiniz :)
+Breaking Ground'u hediye eden Fatih'e ve bağış atan İhsan'a teşekkür ederim :)
 
-Parayı çarçur etmeyip DLC aldığımdan emin olmak için [Steam'den hediye olarak atabilirsiniz](https://steamcommunity.com/id/furkan_s)
-
-Ya da hayatıma yardımcı olabilirsiniz:
+Hayatıma yardımcı olmak isterseniz:
 
 - QNB Finansbank Hesabım: TR87 0011 1000 0000 0086 9859 23
 
