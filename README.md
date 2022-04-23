@@ -27,4 +27,8 @@ Hayatıma yardımcı olmak isterseniz:
 
 - QNB Finansbank Hesabım: TR87 0011 1000 0000 0086 9859 23
 
+- Ziraat Bankası Hesabım: TR65 0001 0009 0091 2330 0850 01
+
 - Papara Hesap Numaram: 1984172718
+
+- İsim: Furkan Samanlı
