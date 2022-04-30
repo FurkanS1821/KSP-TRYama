@@ -8,4 +8,5 @@ Diff "Base Game & MH" "Kerbal Space Program\GameData\Squad\Localization" "{0}\di
 set /p msg="Enter commit message: "
 git commit -m "%msg%"
 git push origin yeni-baslangic
+call pushToGame.bat
 pause
