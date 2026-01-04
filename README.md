@@ -1,7 +1,7 @@
 # Kerbal Space Program - Türkçe Yama
 Kerbal Space Program'ın Türkçe Yaması.
 
-**[SON DURUMU SON COMMIT'İN MESAJINDA GÖREBİLİRSİNİZ]**
+**[TAMAMLANMADI]**
 
 Hatalı bulduğunuz ve/veya "şöyle olsa daha iyi olurdu" dediğiniz yerleri "issue" kısmından ekleyebilirsiniz.
 
@@ -18,13 +18,3 @@ Dosyaları [buradan](https://github.com/FurkanS1821/KSP-TRYama/releases/latest) 
 ### KSPedia'yı çevirecek misin?
 
 Bunu yapmam mümkün değil ama çevirilmiş bir KSPedia pdf dosyasını buraya koyacağım.
-
-## BAĞIŞ
-
-Breaking Ground'u hediye eden Fatih'e ve bağış atan İhsan'a teşekkür ederim :)
-
-Hayatıma yardımcı olmak isterseniz:
-
-- QNB Finansbank Hesabım: TR87 0011 1000 0000 0086 9859 23
-
-- Papara Hesap Numaram: 1984172718
